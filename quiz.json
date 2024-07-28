@@ -1,19 +1,104 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your One Piece knowledge!",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "Who is Luffy?",
+      "answers": ["Pirate", "Marine", "Shogun"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "What is Zoro's weapon?",
+      "answers": ["Sword", "Gun", "Axe"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "Who is Nami?",
+      "answers": ["Navigator", "Cook", "Doctor"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the One Piece?",
+      "answers": ["Treasure", "Ship", "Island"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Sanji?",
+      "answers": ["Cook", "Doctor", "Swordsman"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the Going Merry?",
+      "answers": ["Ship", "Sword", "Island"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Usopp?",
+      "answers": ["Sniper", "Doctor", "Cook"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Devil Fruit?",
+      "answers": ["Power", "Fruit", "Weapon"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Chopper?",
+      "answers": ["Doctor", "Cook", "Navigator"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the Grand Line?",
+      "answers": ["Sea", "Ship", "Island"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Robin?",
+      "answers": ["Archaeologist", "Cook", "Captain"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Haki?",
+      "answers": ["Power", "Weapon", "Island"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Franky?",
+      "answers": ["Shipwright", "Cook", "Sniper"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the Sunny?",
+      "answers": ["Ship", "Island", "Sword"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Brook?",
+      "answers": ["Musician", "Cook", "Doctor"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the Yonko?",
+      "answers": ["Emperor", "Ship", "Island"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Jinbe?",
+      "answers": ["Fishman", "Marine", "Doctor"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the Red Line?",
+      "answers": ["Land", "Ship", "Sea"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Shanks?",
+      "answers": ["Pirate", "Marine", "King"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Log Pose?",
+      "answers": ["Compass", "Ship", "Sword"],
       "correctAnswerIndex": 0
     }
   ]
